@@ -55,7 +55,7 @@ const Hero = () => {
               <a href="https://t.me/rasheedaldeb">Contact Me</a>
             </motion.button>
             <motion.button variants={textVariants} className="cv">
-              <a href="/Rasheed-cv.pdf" download>
+              <a href="/public/Rasheed-Complete-cv.pdf" download>
                 Download CV
               </a>
             </motion.button>
