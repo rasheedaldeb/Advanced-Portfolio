@@ -51,6 +51,13 @@ const items = [
     desc: "A shopping cart website using HTML, CSS, and JavaScript, Structures the product listings and cart elements, Styles the layout, buttons, and overall design, Manages adding/removing items, updating quantities, and calculating the total price.",
     url: "https://rasheedaldeb.github.io/shoping-cart/",
   },
+  {
+    id: 8,
+    title: "Macc-Essential",
+    img: "/images/macc.png",
+    desc: "A shopping cart website using react, Api, protected route, Structures the product listings and cart elements, Styles the layout, buttons, and overall design, Manages adding/removing items, updating quantities, and calculating the total price.",
+    url: "https://chic-druid-b60877.netlify.app/",
+  },
 ];
 
 const Single = ({ item }) => {
