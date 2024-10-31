@@ -56,7 +56,7 @@ const items = [
     title: "Macc-Essential",
     img: "/images/macc.png",
     desc: "A shopping cart website using react, Api, protected route, Structures the product listings and cart elements, Styles the layout, buttons, and overall design, Manages adding/removing items, updating quantities, and calculating the total price.",
-    url: "https://macc-essenital.netlify.app/",
+    url: "https://macc-essenital.netlify.app/log-in",
   },
 ];
 
